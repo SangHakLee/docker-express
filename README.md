@@ -2,9 +2,12 @@
 
 ## Usage
 ```bash
+$ node bin/www
+#or
 $ nodemon bin/www
 ```
 
+## Docker
 
 ### Docker CMD
 
