@@ -8,6 +8,11 @@ $ nodemon bin/www
 
 ### Docker CMD
 
+#### Build Image
+```
+$ docker build -t <your username>/node-web-app .
+```
+
 #### Delete All containers & images
 ```
 # Delete every Docker containers
